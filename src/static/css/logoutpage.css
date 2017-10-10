@@ -1,0 +1,18 @@
+.logout-button {
+    width: 40%;
+    margin-top: 3%;
+    padding: 1%;
+    color: white;
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    background-color: #0077be; 
+    border-radius: 25px;
+}
+
+.logout-button:hover {
+    color: white;
+    background-color: #3C9ADB; 
+}
+
+.logout-root-div {
+    text-align: center;
+}

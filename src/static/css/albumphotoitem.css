@@ -1,0 +1,31 @@
+.album-photo-div {
+    margin: 2%;
+    width: 100%;
+}
+
+.album-photo {
+    width: 100%;
+    height: auto;
+}
+
+.photo-name-div {
+    background-color: #0077be;
+    color: white;
+    margin-left: 2%;
+    width: 100%;
+}
+
+.photo-name-div-selected {
+    background-color: #c81924;
+    color: white;
+    margin-left: 2%;
+    width: 100%;
+}
+
+.photo-name {
+    margin-left: 5%;
+}
+
+.photo-item-selected {
+    opacity: .75;
+}

@@ -1,0 +1,29 @@
+.album-storage-root {
+    width: 50%;
+    float: left;
+}
+
+.album-list {
+    height: 80vh;
+    overflow-y: scroll;
+}
+
+.album-list > * {
+    margin: 2%;
+}
+
+.album-search {
+    margin-left: 2%;
+    height: 6vh;
+    width: 100%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    padding: 12px 20px 12px 5px;
+}
+
+.album-search:focus {
+    width: 100%;
+} 

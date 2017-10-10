@@ -1,0 +1,42 @@
+.navigationBar {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    height: 7vh;
+}
+
+.titleButton {
+    float: left;
+    margin-left: 2%;
+}
+
+.titleButton > a {
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+
+.titleButton > a:hover {
+    color: gray; 
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.pageButtons {
+    float: right;
+}
+
+.pageButtons > a {
+    margin-right: .8em;
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bolder;
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+
+.pageButtons > a:hover {
+    color: gray; 
+    text-decoration: none;
+    cursor: pointer;
+}

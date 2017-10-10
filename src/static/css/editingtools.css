@@ -1,0 +1,9 @@
+.editing-tools-div {
+    width: 100%;
+    height: 2%;
+    text-align: center;
+}
+
+.saving-status-span {
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}

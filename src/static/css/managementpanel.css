@@ -1,0 +1,17 @@
+.management-panel {
+    float: right;
+    width: 15%;
+    top: 0;
+    position: absolute;
+    right: 0;
+    margin-top: 8%; 
+}
+
+.download-button {
+    max-width: 22%;
+    max-height: 22%;
+    margin-top: 5%;
+    float: right;
+    margin-right: 30%;
+    cursor: pointer;
+}

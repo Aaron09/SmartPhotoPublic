@@ -1,0 +1,55 @@
+.top-row-content {
+    width: 100%;
+    margin-top: 4%;
+}
+
+.top-row-content > * {
+    float: left;
+}
+
+.feature-content {
+    margin-top: 8vh;
+}
+
+.feature-content > * {
+    float: left;
+}
+
+.edit-info {
+    text-align: center;
+}
+
+.storage-info {
+    text-align: center;
+}
+
+.carousel-content {
+    width: 40vw;
+    height: 40vh;
+    float: right;
+    margin-right: 5vw;
+}
+
+.intro-content-div {
+    margin-left: 7vw;
+}
+
+.intro-name-span {
+    font-weight: lighter;
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;    font-size: 40px;
+    color: darkgray;
+}
+
+.intro-description-span {
+    font-size: 20px;
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    color: gray;
+}
+
+.edit-span {
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+
+.storage-span {
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}

@@ -1,0 +1,7 @@
+#image-canvas {
+    width: 61%;
+    height: 500px;
+    display: inline-block;
+    margin-left: 2%;
+    border: 2px solid black;
+}

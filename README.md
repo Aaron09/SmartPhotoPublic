@@ -1,2 +1,2 @@
 # SmartPhotoPublic
-Public Version of SmartPhoto
+Public Version for SmartPhoto

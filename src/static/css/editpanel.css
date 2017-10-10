@@ -1,0 +1,15 @@
+.edit-panel {
+  width: 13%;
+  float: right;
+  margin-right: 4%;
+  margin-top: 10%;
+}
+
+.edit-slider-list {
+  height: 300px; 
+  overflow-y: scroll;
+}
+
+.edit-slider-list > * {
+  padding-bottom: 15%;
+}

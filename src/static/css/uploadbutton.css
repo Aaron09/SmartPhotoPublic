@@ -1,0 +1,13 @@
+.upload-button {
+    max-width: 24%;
+    max-height: 24%;
+    margin-top: 5%;
+    float: left;
+    margin-left: 9%; 
+    margin-right: 5%;
+    cursor: pointer;
+}
+
+#file-upload {
+    display: none;
+}

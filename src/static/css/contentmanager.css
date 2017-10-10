@@ -1,0 +1,19 @@
+.content-manager-div {
+    margin-top: 1%;
+    margin-right: 2%;
+    width: 38%;
+    float: right;
+}
+
+.target-label {
+    font-style: bold;
+}
+
+.management-buttons {
+    text-align: center;
+}
+
+.upload-target-div {
+    margin-top: 1%;
+    text-align: center;
+}

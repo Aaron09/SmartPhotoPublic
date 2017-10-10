@@ -1,0 +1,73 @@
+.name-title-div {
+    margin-top: 1%;
+    text-align: center;
+}
+
+.name-title {
+    font-size: 30px;
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+
+.email-address-title {
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    font-style: bold;
+}
+
+.loginForm > .info-field {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    margin-top: 1%;
+    font-size: 15px;
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+
+.login-forms {
+    text-align: center;
+}
+
+.submitButton {
+    width: 40%;
+    margin-top: 3%;
+    padding: 1%;
+    color: white;
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    background-color: #0077be; 
+    border-radius: 25px;
+}
+
+.submitButton:hover {
+    color: white;
+    background-color: #3C9ADB; 
+}
+
+.forgot-div {
+    margin-top: 1%;
+}
+
+.forgot-link {
+    color: #0077be;
+}
+
+.forgot-link:hover {
+    color: #3C9ADB;
+    text-decoration: none;
+}
+
+.signup-prompt-div {
+    margin-top: 1%;
+}
+
+.signup-prompt {
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    font-style: bold;
+}
+
+.signup-link {
+    color: #0077be;
+}
+
+.signup-link:hover {
+    color: #3C9ADB;
+    text-decoration: none;
+}

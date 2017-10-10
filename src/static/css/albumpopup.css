@@ -1,0 +1,46 @@
+.pop-up-div {
+    margin-top: 17%;
+    left: 0;
+    top: 0;
+    margin-left: 35%;
+    position: fixed;
+    display: none;
+    z-index: 1;
+    border: 1px solid black;
+    width: 20%;
+    background-color: white;
+}
+
+.album-options > * {
+    cursor: pointer;
+}
+
+.album-options {
+    overflow-y: scroll;
+    max-height: 300px;
+    list-style: none;
+}
+
+.upload-buttons {
+    width: 100%;
+}
+
+.album-options-div {
+    height: 33%;
+    border: 1px solid black;
+}
+
+.modal-header {
+    color: white;
+    background-color: #0077be; 
+}
+
+.modal-footer > * {
+    color: white;
+    background-color: #0077be; 
+}
+
+.modal-footer > *:hover {
+    color: white;
+    background-color: #3C9ADB; 
+}

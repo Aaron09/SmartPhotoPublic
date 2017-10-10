@@ -1,0 +1,29 @@
+.album-photo-list {
+    float: right;
+    margin-right: 12%;
+    width: 28%;
+}
+
+.photo-list {
+    height: 80vh;
+    overflow-y: scroll;
+}
+
+.photo-list > * {
+    margin: 2%;
+}
+
+.photo-search {
+    margin-left: 2%;
+    height: 6vh;
+    width: 100%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    padding: 12px 20px 12px 5px;
+}
+
+.photo-search:focus {
+    width: 100%;
+} 

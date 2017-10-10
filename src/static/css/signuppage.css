@@ -1,0 +1,60 @@
+.name-title-div {
+    margin-top: 1%;
+    text-align: center;
+}
+
+.name-title {
+    font-size: 30px;
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+
+.email-address-title {
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    font-style: bold;
+}
+
+.signupInfoForm > .info-field {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    margin-top: 1%;
+    font-size: 15px;
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+
+.signup-forms {
+    text-align: center;
+}
+
+.submitButton {
+    width: 40%;
+    margin-top: 3%;
+    padding: 1%;
+    color: white;
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    background-color: #0077be; 
+    border-radius: 25px;
+}
+
+.submitButton:hover {
+    color: white;
+    background-color: #3C9ADB; 
+}
+
+.login-prompt-div {
+    margin-top: 1%;
+}
+
+.login-prompt {
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    font-style: bold;
+}
+
+.login-link {
+    color: #0077be;
+}
+
+.login-link:hover {
+    color: #3C9ADB;
+    text-decoration: none;
+}

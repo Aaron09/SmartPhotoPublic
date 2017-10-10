@@ -1,0 +1,12 @@
+.album-form-div {
+    display: none;
+    position: fixed;
+    margin-top: 1%; /* Location of the box */
+    left: 0;
+    top: 0;
+    z-index: 1;
+    width: 20%;
+    height: 15%;
+    margin-left: 20%;
+    background-color: white;
+}
